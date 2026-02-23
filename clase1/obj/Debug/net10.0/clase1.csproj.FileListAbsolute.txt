@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\bin\Debug\net10.0\clase1.exe
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\bin\Debug\net10.0\clase1.deps.json
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\bin\Debug\net10.0\clase1.runtimeconfig.json
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\bin\Debug\net10.0\clase1.dll
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\bin\Debug\net10.0\clase1.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\obj\Debug\net10.0\clase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\obj\Debug\net10.0\clase1.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\obj\Debug\net10.0\clase1.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\obj\Debug\net10.0\clase1.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\obj\Debug\net10.0\clase1.sourcelink.json
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\obj\Debug\net10.0\clase1.dll
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\obj\Debug\net10.0\refint\clase1.dll
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\obj\Debug\net10.0\clase1.pdb
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\obj\Debug\net10.0\clase1.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Documentos\GitHub\Programacion_3\clase1\obj\Debug\net10.0\ref\clase1.dll
